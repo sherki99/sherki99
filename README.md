@@ -18,18 +18,6 @@ I’m open to collaborating on projects involving:
 - **Natural Language Processing (NLP)**
 - **AI Deployment on AWS**
 
-### 📫 How to Reach Me
-- **Email**: [cherkimeziane99@outlook.com](mailto:cherkimeziane99@outlook.com)  
-- **LinkedIn**: [linkedin.com/in/cherki-meziane](https://linkedin.com/in/cherki-meziane)  
-- **GitHub**: [github.com/sherki99](https://github.com/sherki99)
-
-### ⚡ Fun Facts
-- I fine-tuned BioBERT for wearable health devices.  
-- Created a GPT-3 chatbot that increased user engagement by 30%.  
-- I love solving complex problems with **data and AI**.
-
----
-
 ### 🚀 Skills at a Glance
 - **Programming**: Python (TensorFlow, PyTorch), SQL, Node.js  
 - **Machine Learning**: Model Fine-Tuning, Predictive Analytics, RAG Systems  
@@ -37,11 +25,11 @@ I’m open to collaborating on projects involving:
 - **MLOps**: Automated Pipelines, Continuous Monitoring, Version Control  
 - **AI Applications**: NLP, GPT-3, BioBERT, Reinforcement Learning  
 
+### 📫 How to Reach Me
+- **Email**: [cherkimeziane99@outlook.com](mailto:cherkimeziane99@outlook.com)  
+- **LinkedIn**: [linkedin.com/in/cherki-meziane](https://linkedin.com/in/cherki-meziane)  
+- **GitHub**: [github.com/sherki99](https://github.com/sherki99)
+
 ---
 
-### 📂 Featured Repositories
-Here are some of my key projects:  
-- [**BioBERT Health Analysis**](https://github.com/sherki99/biobert-health-analysis): Fine-tuned BioBERT to analyze real-time health data.  
-- [**RAG System Implementation**](https://github.com/sherki99/rag-system): Retrieval-Augmented Generation system for improving document retrieval.  
-- [**Custom GPT-3 Chatbot**](https://github.com/sherki99/custom-gpt3-chatbot): Developed a conversational AI assistant using GPT-3 and RLHF.
 
