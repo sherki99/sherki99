@@ -30,6 +30,5 @@ I’m open to collaborating on projects involving:
 - **LinkedIn**: [linkedin.com/in/cherki-meziane](https://linkedin.com/in/cherki-meziane)  
 - **GitHub**: [github.com/sherki99](https://github.com/sherki99)
 
----
 
 
