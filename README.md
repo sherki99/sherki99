@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub!
 
-<!--
-**sherki99/sherki99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Cherki Meziane**, an **Artificial Intelligence Engineer**, **Machine Learning Specialist**, and an **AWS Certified Solutions Architect** with a passion for building cutting-edge AI solutions that solve real-world challenges. My work spans **healthcare**, **finance**, and **real-time data processing**, with a focus on scalability and innovation.
 
-Here are some ideas to get you started:
+### 🔭 What I'm Working On
+- **AI for Healthcare**: Enhancing health predictions with fine-tuned models like BioBERT, improving accuracy by 15%.
+- **RAG Systems**: Designing Retrieval-Augmented Generation systems for document retrieval, reducing errors by 40%.
+- **LLM Applications**: Building GPT-3-powered chatbots with RLHF to provide smarter, user-friendly solutions, boosting accuracy by 19%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced MLOps for streamlined deployment pipelines.
+- Cutting-edge NLP techniques and LLM optimization.
+- Enhanced scalability using **AWS** services like **Lambda**, **S3**, and **EC2**.
+
+### 👯 Looking to Collaborate
+I’m open to collaborating on projects involving:
+- **Predictive Analytics**
+- **Natural Language Processing (NLP)**
+- **AI Deployment on AWS**
+
+### 📫 How to Reach Me
+- **Email**: [cherkimeziane99@outlook.com](mailto:cherkimeziane99@outlook.com)  
+- **LinkedIn**: [linkedin.com/in/cherki-meziane](https://linkedin.com/in/cherki-meziane)  
+- **GitHub**: [github.com/sherki99](https://github.com/sherki99)
+
+### ⚡ Fun Facts
+- I fine-tuned BioBERT for wearable health devices.  
+- Created a GPT-3 chatbot that increased user engagement by 30%.  
+- I love solving complex problems with **data and AI**.
+
+---
+
+### 🚀 Skills at a Glance
+- **Programming**: Python (TensorFlow, PyTorch), SQL, Node.js  
+- **Machine Learning**: Model Fine-Tuning, Predictive Analytics, RAG Systems  
+- **Cloud Expertise**: AWS (Lambda, S3, RDS, EC2)  
+- **MLOps**: Automated Pipelines, Continuous Monitoring, Version Control  
+- **AI Applications**: NLP, GPT-3, BioBERT, Reinforcement Learning  
+
+---
+
+### 📂 Featured Repositories
+Here are some of my key projects:  
+- [**BioBERT Health Analysis**](https://github.com/sherki99/biobert-health-analysis): Fine-tuned BioBERT to analyze real-time health data.  
+- [**RAG System Implementation**](https://github.com/sherki99/rag-system): Retrieval-Augmented Generation system for improving document retrieval.  
+- [**Custom GPT-3 Chatbot**](https://github.com/sherki99/custom-gpt3-chatbot): Developed a conversational AI assistant using GPT-3 and RLHF.
+
