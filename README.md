@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-I'm **Cherki Meziane**, an **Artificial Intelligence Engineer**, **Machine Learning Specialist**, and an **AWS Certified Solutions Architect** with a passion for building cutting-edge AI solutions that solve real-world challenges. My work spans **healthcare**, **finance**, and **real-time data processing**, with a focus on scalability and innovation.
+I'm **Cherki Meziane**, an **Artificial Intelligence Engineer**, **Junior Machine Learning**, and an **AWS Certified Solutions Architect** with a passion for building cutting-edge AI solutions that solve real-world challenges. My work spans **healthcare**, **finance**, and **real-time data processing**, with a focus on scalability and innovation.
 
 ### 🔭 What I'm Working On
 - **AI for Healthcare**: Enhancing health predictions with fine-tuned models like BioBERT, improving accuracy by 15%.
